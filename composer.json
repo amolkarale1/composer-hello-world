@@ -6,8 +6,8 @@
             "email": "akarale@xento.com"
         }
     ],
-    "require": {},
 	"autoload": {
         "psr-4": {"amolkarale\\HelloWorld\\": "src/"}
     },
+    "require": {}
 }
